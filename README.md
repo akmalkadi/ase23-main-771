@@ -1,4 +1,10 @@
-# CodeT5-OCRfix: Improving Code Extraction from Coding Screencasts Using a Code-Aware Encoder-Decoder Model
+# CodeT5-OCRfix Replication Package
+
+## Paper
+
+Read the full research paper on IEEE Xplore:
+
+[Improving Code Extraction from Coding Screencasts Using a Code-Aware Encoder-Decoder Model](https://ieeexplore.ieee.org/document/10298433)
 
 ## Abstract
 
@@ -10,11 +16,7 @@ Access the replication package containing the CodeT5-OCRfix model, datasets, and
 
 [Download CodeT5-OCRfix Replication Package](https://99hf.short.gy/ase2023rep)
 
-## Paper
 
-Read the full research paper on IEEE Xplore:
-
-[Improving Code Extraction from Coding Screencasts Using a Code-Aware Encoder-Decoder Model](https://ieeexplore.ieee.org/document/10298433)
 
 ## Citation
 
